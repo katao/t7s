@@ -1,16 +1,15 @@
 module T7s
   class Idol
     attr_reader :idol_id, :key, :name
-  end
-  @@config = nil
-  @@all_idols = nil
+    @@config = nil
+    @@all_idols = nil
 
-  def initialize(**args)
-    @idol_id          = args[:idol_id]
-    @key              = args[:key]
-    @name             = Name.new(args[:name])
-  end
-  alias_method :id, :idol_id
+    def initialize(**args)
+      @idol_id          = args[:idol_id]
+      @key              = args[:key]
+      @name             = Name.new(args[:name])
+    end
+    alias_method :id, :idol_id
 
   class << self
     def config
@@ -44,6 +43,7 @@ module T7s
 
     def valid?(idol_name)
       names.include?(idol_name)
+    end
     end
 
     class UnknownIdolError < StandardError; end

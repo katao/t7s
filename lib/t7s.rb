@@ -3,6 +3,7 @@ require 'yaml'
 require 'hashie'
 require "t7s/version"
 require "t7s/idol"
+require "t7s/idol/name"
 
 module T7s
   def self.method_missing(name, *args)
