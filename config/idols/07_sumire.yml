@@ -1,5 +1,4 @@
----
-haru:
+sumire:
   id: 7
   idol_id: 7
   name:
@@ -8,3 +7,18 @@ haru:
     given: スミレ
     given_kana: スミレ
     shorten: スミレ
+  old: 17歳
+  birthday: 9/8
+  zodiac_signs: 乙女座
+  blood_type: O型
+  height: 160
+  weight: 45
+  bust: 84
+  waist: 53
+  hip: 75
+  cv: 清水 彩香
+  nickname: スミレ
+  special_skill: 料理　いや、ホントだし
+  favorite_things: ['カラオケ♪', 'メロンソーダ']
+  belongs: ['高校生']
+  unit: ['777☆SISTERS', 'SiSH']

@@ -1,5 +1,4 @@
----
-haru:
+susu:
   id: 10
   idol_id: 10
   name:
@@ -8,3 +7,18 @@ haru:
     given: スース
     given_kana: スース
     shorten: スース
+  old: 14
+  birthday: 10/17
+  zodiac_signs: てんびん座
+  blood_type: B型
+  height: 161
+  weight: 47
+  bust: 85
+  waist: 53
+  hip: 80
+  cv: 大西 沙織
+  nickname: スース、スー
+  special_skill: バレエダンス
+  favorite_things: ['香水集め', 'ビーチ']
+  belongs: ['留学生']
+  unit: ['777☆SISTERS', 'NI+CORA']

@@ -1,5 +1,4 @@
----
-haru:
+sui:
   id: 8
   idol_id: 8
   name:
@@ -8,3 +7,18 @@ haru:
     given: スイ
     given_kana: スイ
     shorten: スイ
+  old: 16
+  birthday: 2/22
+  zodiac_signs: 魚座
+  blood_type: B型
+  height: 156
+  weight: 46
+  bust: 81
+  waist: 56
+  hip: 80
+  cv: 道井 悠
+  nickname: スイ
+  special_skill: 400メートル個人メドレー
+  favorite_things: ['練習後のアイス']
+  belongs: ['高校生', '水泳部']
+  unit: ['777☆SISTERS', 'SiSH']

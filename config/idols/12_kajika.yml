@@ -1,5 +1,4 @@
----
-haru:
+kajika:
   id: 12
   idol_id: 12
   name:
@@ -8,3 +7,18 @@ haru:
     given: カジカ
     given_kana: カジカ
     shorten: カジカ
+  old: 14
+  birthday: 2/14
+  zodiac_signs: 牡羊座
+  blood_type: B型
+  height: 148
+  weight: 38
+  bust: 79
+  waist: 53
+  hip: 77
+  cv: 高井 舞香
+  nickname: カジカ
+  special_skill: お菓子作り
+  favorite_things: ['合唱会']
+  belongs: ['中学生', '合唱部']
+  unit: ['777☆SISTERS', 'サンボンリボン']

@@ -1,5 +1,4 @@
----
-haru:
+sawara:
   id: 11
   idol_id: 11
   name:
@@ -8,3 +7,18 @@ haru:
     given: サワラ
     given_kana: サワラ
     shorten: サワラ
+  old: 19
+  birthday: 4/1
+  zodiac_signs: 牡羊座
+  blood_type: B型
+  height: 164
+  weight: 50
+  bust: 84
+  waist: 58
+  hip: 80
+  cv: 中村 桜
+  nickname: サワラ
+  special_skill: 方向音痴　てへ
+  favorite_things: ['登山', 'カメラ', '妹たち']
+  belongs: ['大学生']
+  unit: ['777☆SISTERS', 'サンボンリボン']

@@ -1,5 +1,4 @@
----
-haru:
+momoka:
   id: 6
   idol_id: 6
   name:
@@ -8,3 +7,18 @@ haru:
     given: モモカ
     given_kana: モモカ
     shorten: モモカ
+  old: 15歳
+  birthday: 1/1
+  zodiac_signs: 山羊座
+  blood_type: AB型
+  height: 144
+  weight: 37
+  bust: 78
+  waist: 53
+  hip: 78
+  cv: 井澤 詩織
+  nickname: モモカ
+  special_skill: チューバックス味ソムリエ
+  favorite_things: ['だらだらアニメ見ること']
+  belongs: ['高校生']
+  unit: ['777☆SISTERS', 'WITCH NUMBER 4']

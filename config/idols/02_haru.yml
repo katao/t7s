@@ -1,4 +1,3 @@
----
 haru:
   id: 2
   idol_id: 2
@@ -8,3 +7,18 @@ haru:
     given: ハル
     given_kana: ハル
     shorten: ハル
+  old: 16
+  birthday: 4/16
+  zodiac_signs: 牡羊座
+  blood_type: A
+  height: 157
+  weight: 46
+  bust: 82
+  waist: 57
+  hip: 78
+  cv: 篠田 みなみ
+  nickname: ハル
+  special_skill: お掃除ですッ！！
+  favorite_things: ['歌うこと', 'キーホルダー']
+  belongs: ['高校生']
+  unit: ['777☆SISTERS', 'WITCH NUMBER 4']

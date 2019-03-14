@@ -1,5 +1,4 @@
----
-haru:
+shizuka:
   id: 9
   idol_id: 9
   name:
@@ -8,3 +7,18 @@ haru:
     given: シズカ
     given_kana: シズカ
     shorten: シズカ
+  old: 17歳
+  birthday: 7/20
+  zodiac_signs: 蟹座
+  blood_type: O型
+  height: 165
+  weight: 48
+  bust: 85
+  waist: 54
+  hip: 80
+  cv: 今井 麻夏
+  nickname: シズカ
+  special_skill: 弓道　茶道　でしょうか？
+  favorite_things: ['マナ姉さま', '夏の避暑地']
+  belongs: ['高校生', '弓道部']
+  unit: ['777☆SISTERS', 'SiSH']

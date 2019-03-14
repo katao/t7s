@@ -1,4 +1,3 @@
----
 niko:
   id: 1
   idol_id: 1
@@ -8,3 +7,18 @@ niko:
     given: コニー
     given_kana: コニー
     shorten: コニー
+  old: 19
+  birthday: 7/7
+  zodiac_signs: 蟹座
+  blood_type: O
+  height: 159
+  weight: 45
+  bust: 85
+  waist: 56
+  hip: 78
+  cv: 水瀬 いのり
+  nickname: ジャーマネ
+  special_skill: 好きな夢を自由に見れる
+  favorite_things: ['友だち', 'ドーナツ']
+  belongs: ['マネージャー']
+  unit: nil

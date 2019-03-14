@@ -1,5 +1,4 @@
----
-haru:
+hime:
   id: 5
   idol_id: 5
   name:
@@ -8,3 +7,18 @@ haru:
     given: ヒメ
     given_kana: ヒメ
     shorten: ヒメ
+  old: 16
+  birthday: 8/8
+  zodiac_signs: しし座
+  blood_type: O
+  height: 152
+  weight: 40
+  bust: 77
+  waist: 55
+  hip: 78
+  cv: 中島 唯
+  nickname: ノノヒメ
+  special_skill: 早弁と配達だな
+  favorite_things: ['妹と弟', '夕暮れの河川敷']
+  belongs: ['高校生']
+  unit: ['777☆SISTERS', 'WITCH NUMBER 4']

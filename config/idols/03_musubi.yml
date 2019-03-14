@@ -1,5 +1,4 @@
----
-haru:
+musubi:
   id: 3
   idol_id: 3
   name:
@@ -8,3 +7,18 @@ haru:
     given: ムスビ
     given_kana: ムスビ
     shorten: ムスビ
+  old: 16
+  birthday: 7/13
+  zodiac_signs: 蟹座
+  blood_type: A
+  height: 162
+  weight: 47
+  bust: 80
+  waist: 56
+  hip: 83
+  cv: 高田 憂希
+  nickname: ムスビ
+  special_skill: 落ちものゲーム
+  favorite_things: ['やきそばパン']
+  belongs: ['高校生', '生徒会']
+  unit: ['777☆SISTERS', 'NI+CORA']

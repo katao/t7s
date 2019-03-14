@@ -1,0 +1,24 @@
+rona:
+  id: 4
+  idol_id: 4
+  name:
+    family: 角森
+    family_kana: ツノモリ
+    given: ロナ
+    given_kana: ロナ
+    shorten: ロナ
+  old: 16
+  birthday: 5/20
+  zodiac_signs: 牡牛座
+  blood_type: A
+  height: 147
+  weight: 39
+  bust: 78
+  waist: 53
+  hip: 76
+  cv: 加隈 亜衣
+  nickname: ロナ
+  special_skill: お手玉くらいしか…
+  favorite_things: ['ニコさま', '動物さん']
+  belongs: ['高校生', 'アルバイト']
+  unit: ['777☆SISTERS', 'WITCH NUMBER 4']
