@@ -7,3 +7,18 @@ kazumi:
     given: カヅミ
     given_kana: カヅミ
     shorten: カヅミ
+  old: 18
+  birthday: 8/2
+  zodiac_signs: しし座
+  blood_type: B型
+  height: 166
+  weight: 57
+  bust: 88
+  waist: 53
+  hip: 77
+  cv: 立花 理香
+  nickname: カヅミ
+  special_skill: フランス詩学
+  favorite_things: ['図書室のカーテン']
+  belongs: ['高校生', '図書委員']
+  unit: nil

@@ -7,3 +7,18 @@ chacha:
     given: チャチャ
     given_kana: チャチャ
     shorten: チャチャ
+  old: 19
+  birthday: 11/1
+  zodiac_signs: 蠍座
+  blood_type: B型
+  height: 167
+  weight: 48
+  bust: 81
+  waist: 53
+  hip: 78
+  cv: 大地 葉
+  nickname: チャチャ
+  special_skill: 暗記
+  favorite_things: ['紅茶', '帽子', '古書堂巡り']
+  belongs: ['実家の古書堂']
+  unit: ["CASQUETTE'S"]

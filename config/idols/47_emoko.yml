@@ -1,0 +1,24 @@
+emoko:
+  id: 47
+  idol_id: 47
+  name:
+    family: 鰐淵
+    family_kana: ワニブチ
+    given: エモコ
+    given_kana: エモコ
+    shorten: エモコ
+  old: 16
+  birthday: 9/22
+  zodiac_signs: 乙女座
+  blood_type: A型
+  height: 157
+  weight: 43
+  bust: 83
+  waist: 54
+  hip: 82
+  cv: 吉岡 茉祐
+  nickname: エモコ
+  special_skill: 人を無視すること
+  favorite_things: ['爬虫類']
+  belongs: ['亜麻百合高等学校軽音部']
+  unit: ['4U']

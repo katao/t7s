@@ -7,3 +7,18 @@ tomoe:
     given: トモエ
     given_kana: トモエ
     shorten: トモエ
+  old: 16
+  birthday: 12/24
+  zodiac_signs: 山羊座
+  blood_type: O型
+  height: 148
+  weight: 37
+  bust: 77
+  waist: 49
+  hip: 77
+  cv: 宝木 久美
+  nickname: トモエ
+  special_skill: 世界史
+  favorite_things: ['サボテン']
+  belongs: ['高校生', '帰宅部']
+  unit: ['七花少女']

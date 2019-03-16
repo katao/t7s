@@ -7,3 +7,18 @@ ei:
     given: エイ
     given_kana: エイ
     shorten: エイ
+  old: 16
+  birthday: 6/8
+  zodiac_signs: 双子座
+  blood_type: A型
+  height: 164
+  weight: 47
+  bust: 82
+  waist: 56
+  hip: 77
+  cv: M・A・O
+  nickname: エイ
+  special_skill: 霊媒になること
+  favorite_things: ['神社のひんやりした空気']
+  belongs: ['高校生', '実家の神社']
+  unit: nil

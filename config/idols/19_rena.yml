@@ -7,3 +7,18 @@ rena:
     given: レナ
     given_kana: レナ
     shorten: レナ
+  old: 16
+  birthday: 3/21
+  zodiac_signs: 牡羊座
+  blood_type: A型
+  height: 158
+  weight: 45
+  bust: 78
+  waist: 54
+  hip: 77
+  cv: 藤田 茜
+  nickname: レナ
+  special_skill: 走り高跳びだよ
+  favorite_things: ['美術館巡り', 'カラータイツ']
+  belongs: ['高校生', '陸上部']
+  unit: ['Le☆S☆Ca']

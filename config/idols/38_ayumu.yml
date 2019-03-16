@@ -7,3 +7,18 @@ ayumu:
     given: アユム
     given_kana: アユム
     shorten: アユム
+  old: 15
+  birthday: 11/29
+  zodiac_signs: 射手座
+  blood_type: O型
+  height: 154
+  weight: 42
+  bust: 80
+  waist: 56
+  hip: 77
+  cv: 田中 美海
+  nickname: アユム
+  special_skill: ネットサーフィン
+  favorite_things: ['虹色', 'コスプレ', 'メイドさん']
+  belongs: ['高校生', 'アルバイト']
+  unit: ['Ci+LUS']

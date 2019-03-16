@@ -1,0 +1,24 @@
+ume:
+  id: 48
+  idol_id: 48
+  name:
+    family: 九条
+    family_kana: クジョウ
+    given: ウメ
+    given_kana: ウメ
+    shorten: ウメ
+  old: 16
+  birthday: 8/30
+  zodiac_signs: 乙女座
+  blood_type: B型
+  height: 156
+  weight: 43
+  bust: 88
+  waist: 57
+  hip: 80
+  cv: 山下 まみ
+  nickname: ウメ
+  special_skill: ギターボーカル
+  favorite_things: ['コスメグッズ集め']
+  belongs: ['亜麻百合高等学校軽音部']
+  unit: ['4U']

@@ -1,0 +1,24 @@
+shirayuk:
+  id: 39
+  idol_id: 39
+  name:
+    family: 有栖
+    family_kana: アリス
+    given: シラユキ
+    given_kana: シラユキ
+    shorten: シラユキ
+  old: 7
+  birthday: 12/11
+  zodiac_signs: 射手座
+  blood_type: A型
+  height: 132
+  weight: 33
+  bust: 70
+  waist: 49
+  hip: 78
+  cv: 北方 奈月
+  nickname: シラユキ
+  special_skill: 漢字テスト
+  favorite_things: ['りんご', '晴れの日']
+  belongs: ['小学生']
+  unit: nil

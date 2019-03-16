@@ -7,3 +7,18 @@ miwako:
     given: ミワコ
     given_kana: ミワコ
     shorten: ミワコ
+  old: 22
+  birthday: 2/5
+  zodiac_signs: 水瓶座
+  blood_type: O型
+  height: 158
+  weight: 53
+  bust: 95
+  waist: 58
+  hip: 82
+  cv: 優木 かな
+  nickname: ミワコ、ミワコ先生
+  special_skill: 人に教えること
+  favorite_things: ['グラムロック']
+  belongs: ['大学生', '家庭教師']
+  unit: ["CASQUETTE'S"]

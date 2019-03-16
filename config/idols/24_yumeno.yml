@@ -7,3 +7,18 @@ yumeno:
     given: ユメノ
     given_kana: ユメノ
     shorten: ユメノ
+  old: 18
+  birthday: 1/29
+  zodiac_signs: 水瓶座
+  blood_type: O型
+  height: 163
+  weight: 52
+  bust: 92
+  waist: 59
+  hip: 89
+  cv: 山本 彩乃
+  nickname: ユメノ
+  special_skill: 同人活動
+  favorite_things: ['女子', '漫画を描くこと']
+  belongs: ['高校生', '漫画同好会']
+  unit: ['The QUEEN of PURPLE']

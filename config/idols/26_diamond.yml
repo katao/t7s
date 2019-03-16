@@ -7,3 +7,18 @@ diamond:
     given: ダイヤモンド
     given_kana: ダイヤモンド
     shorten: ジェダ
+  old: 17
+  birthday: 9/19
+  zodiac_signs: 乙女座
+  blood_type: O型
+  height: 160
+  weight: 48
+  bust: 82
+  waist: 54
+  hip: 84
+  cv: 伊波 杏樹
+  nickname: ジェダ
+  special_skill: 三味線
+  favorite_things: ['ヌードル', 'オリガミ']
+  belongs: ['留学生']
+  unit: nil

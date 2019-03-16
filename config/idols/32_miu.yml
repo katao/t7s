@@ -7,3 +7,18 @@ miu:
     given: ミウ
     given_kana: ミウ
     shorten: ミウ
+  old: 16
+  birthday: 4/8
+  zodiac_signs: 牡羊座
+  blood_type: B型
+  height: 159
+  weight: 47
+  bust: 82
+  waist: 56
+  hip: 80
+  cv: 高野 麻里佳
+  nickname: ミウ、ミウミウ
+  special_skill: ラクロス
+  favorite_things: ['甘いお菓子']
+  belongs: ['高校生', 'ラクロス部']
+  unit: ['七花少女']

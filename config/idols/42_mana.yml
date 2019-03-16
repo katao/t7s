@@ -1,0 +1,24 @@
+mana:
+  id: 42
+  idol_id: 42
+  name:
+    family: 御園尾
+    family_kana: ミソノオ
+    given: マナ
+    given_kana: マナ
+    shorten: マナ
+  old: 18(2032年時)
+  birthday: 5/12
+  zodiac_signs: 牡牛座
+  blood_type: B型
+  height: 164
+  weight: 51
+  bust: 94
+  waist: 59
+  hip: 86
+  cv: 前田 玲奈
+  nickname: マナ、マナ嬢
+  special_skill: 新体操　ピアノ
+  favorite_things: ['温泉めぐり', '卓球']
+  belongs: ['セブンスシスターズ']
+  unit: ['セブンスシスターズ']

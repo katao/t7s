@@ -7,3 +7,18 @@ mimi:
     given: ミミ
     given_kana: ミミ
     shorten: ミミ
+  old: 20
+  birthday: 10/15
+  zodiac_signs: てんびん座
+  blood_type: B型
+  height: 166
+  weight: 51
+  bust: 87
+  waist: 58
+  hip: 89
+  cv: 齋藤 綾
+  nickname: ミミ
+  special_skill: 人の誕生日を忘れない♪
+  favorite_things: ['国内旅行', 'ドライブ']
+  belongs: ['大学生']
+  unit: ["CASQUETTE'S"]

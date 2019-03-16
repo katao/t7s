@@ -7,3 +7,18 @@ shisara:
     given: シサラ
     given_kana: シサラ
     shorten: シサラ
+  old: 18
+  birthday: 6/29
+  zodiac_signs: 蟹座
+  blood_type: A型
+  height: 168
+  weight: 48
+  bust: 80
+  waist: 56
+  hip: 83
+  cv: 末柄 里恵
+  nickname: シサラ
+  special_skill: どこでも寝られます
+  favorite_things: ['カフェでのんびりすること']
+  belongs: ['大学生', 'モデル']
+  unit: ["CASQUETTE'S"]

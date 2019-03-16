@@ -1,0 +1,24 @@
+hina:
+  id: 46
+  idol_id: 46
+  name:
+    family: 佐伯
+    family_kana: サエキ
+    given: ヒナ
+    given_kana: ヒナ
+    shorten: ヒナ
+  old: 16
+  birthday: 6/30
+  zodiac_signs: 蟹座
+  blood_type: O型
+  height: 143
+  weight: 52
+  bust: 85
+  waist: 64
+  hip: 83
+  cv: 長縄 まりあ
+  nickname: ヒナ
+  special_skill: ドラム演奏
+  favorite_things: ['ポップコーン']
+  belongs: ['亜麻百合高等学校軽音部']
+  unit: ['4U']

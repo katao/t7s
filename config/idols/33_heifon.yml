@@ -7,3 +7,18 @@ heifon:
     given: ヘイフォン
     given_kana: ヘイフォン
     shorten: シャオ
+  old: 15
+  birthday: 4/30
+  zodiac_signs: 牡牛座
+  blood_type: AB型
+  height: 166
+  weight: 46
+  bust: 83
+  waist: 54
+  hip: 81
+  cv: 森 千早都
+  nickname: シャオ
+  special_skill: ['拳法', '書道']
+  favorite_things: ['チンジャオロース']
+  belongs: ['留学生', '拳法部']
+  unit: ['七花少女']

@@ -1,0 +1,24 @@
+futaba:
+  id: 50
+  idol_id: 50
+  name:
+    family: 空栗
+    family_kana: カラクリ
+    given: フタバ
+    given_kana: フタバ
+    shorten: フタバ
+  old: 13
+  birthday: 12/31
+  zodiac_signs: 山羊座
+  blood_type: AB型
+  height: 153
+  weight: 42
+  bust: 79
+  waist: 49
+  hip: 78
+  cv: 秋奈
+  nickname: ヒトフタちゃん
+  special_skill: テレパシー ユニゾンダンス
+  favorite_things: ['ヒトハ']
+  belongs: ['中学生']
+  unit: ['KARAKURI']

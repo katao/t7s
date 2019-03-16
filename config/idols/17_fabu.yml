@@ -7,3 +7,18 @@ fabu:
     given: ファーブ
     given_kana: ファーブ
     shorten: ファーブ
+  old: 17
+  birthday: 9/30
+  zodiac_signs: てんびん座
+  blood_type: A型
+  height: 165
+  weight: 46
+  bust: 82
+  waist: 55
+  hip: 83
+  cv: 広瀬 ゆうき
+  nickname: ファーブ
+  special_skill: トランプは強いよ
+  favorite_things: ['音楽', '夏フェス', 'お祭り']
+  belongs: ['高校生', '軽音部']
+  unit: ['The QUEEN of PURPLE']

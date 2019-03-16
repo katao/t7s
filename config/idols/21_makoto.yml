@@ -7,3 +7,18 @@ makoto:
     given: マコト
     given_kana: マコト
     shorten: マコト
+  old: 14
+  birthday: 3/14
+  zodiac_signs: 魚座
+  blood_type: B型
+  height: 156
+  weight: 43
+  bust: 75
+  waist: 53
+  hip: 77
+  cv: 山崎 エリイ
+  nickname: マコト
+  special_skill: お弁当作り
+  favorite_things: ['支配人', '子猫']
+  belongs: ['中学生', '手芸部']
+  unit: ['Ci+LUS']
